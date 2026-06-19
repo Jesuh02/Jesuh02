@@ -31,6 +31,13 @@
 ## GitHub Stats
 
 <div align="center">
+  <p>
+    <img
+      src="https://img.shields.io/badge/812%20contributions-2025-ff2e93?style=for-the-badge&labelColor=141321&color=ff2e93"
+      alt="812 contributions in 2025"
+    >
+  </p>
+
   <table>
     <tr>
       <td>
