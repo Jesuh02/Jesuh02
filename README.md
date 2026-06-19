@@ -28,6 +28,37 @@
 
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Jesuh02&show_icons=true&count_private=true&rank_icon=github&hide_border=false&border_color=e4e2f4&bg_color=141321&title_color=ff2e93&text_color=9dfcff&icon_color=ff2e93&locale=es"
+          alt="GitHub stats de Jesus David Herazo Rivera"
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com?user=Jesuh02&hide_border=false&border=e4e2f4&background=141321&stroke=e4e2f4&ring=ff2e93&fire=ff2e93&currStreakNum=f8d847&sideNums=ff2e93&currStreakLabel=f8d847&sideLabels=ff2e93&dates=9dfcff&locale=es"
+          alt="Racha de contribuciones de GitHub"
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesuh02&layout=compact&langs_count=8&hide_border=false&border_color=e4e2f4&bg_color=141321&title_color=ff2e93&text_color=9dfcff&locale=es"
+          alt="Lenguajes mas usados en GitHub"
+        >
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Perfil tecnico
 
 Ingeniero full stack senior con enfoque en construir productos completos, no solo features aisladas. Los proyectos de este portafolio combinan backend, frontend, datos, seguridad, integraciones externas, scraping responsable e inteligencia artificial aplicada a flujos reales.
