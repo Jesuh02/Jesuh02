@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Jesus David Herazo Rivera | Senior Full Stack Engineer & IA Aplicada</h1>
+<h1>Jesus David Herazo Rivera |   Engineer & IA Aplicada</h1>
 
 <p>
   Portafolio tecnico enfocado en productos reales: arquitectura limpia, backend robusto,
