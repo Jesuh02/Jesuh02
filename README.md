@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img alt="Senior Engineering" src="https://img.shields.io/badge/Senior%20Engineering-Architecture%20%2B%20Product-111827?style=for-the-badge">
+  <img alt=" Engineering" src="https://img.shields.io/badge/%20Engineering-Architecture%20%2B%20Product-111827?style=for-the-badge">
   <img alt="AI Applied" src="https://img.shields.io/badge/IA%20Aplicada-CV%20%2B%20OCR%20%2B%20LLM-6d28d9?style=for-the-badge">
   <img alt="Backend" src="https://img.shields.io/badge/Backend-FastAPI%20%2B%20Node.js-0f766e?style=for-the-badge">
   <img alt="Frontend" src="https://img.shields.io/badge/Frontend-Vue%203%20%2B%20TypeScript%20%2B%20HTML%2FCSS-2563eb?style=for-the-badge">
@@ -68,7 +68,7 @@
 
 ## Perfil tecnico
 
-Ingeniero full stack senior con enfoque en construir productos completos, no solo features aisladas. Los proyectos de este portafolio combinan backend, frontend, datos, seguridad, integraciones externas, scraping responsable e inteligencia artificial aplicada a flujos reales.
+Ingeniero full stack  con enfoque en construir productos completos, no solo features aisladas. Los proyectos de este portafolio combinan backend, frontend, datos, seguridad, integraciones externas, scraping responsable e inteligencia artificial aplicada a flujos reales.
 
 El criterio tecnico se refleja en decisiones como arquitectura hexagonal, separacion de dominio e infraestructura, contratos tipados, validacion temprana, procesos asincronos, webhooks seguros, observabilidad, despliegue cloud y uso responsable de modelos de IA dentro de productos con reglas de negocio.
 
@@ -122,7 +122,7 @@ Placa ALPR es un sistema backend para reconocimiento automatico de matriculas ve
 
 El valor del proyecto esta en convertir modelos de IA en una operacion real: cada deteccion pasa por reglas de dominio, persistencia, validacion, trazabilidad y acciones posteriores como busqueda de propietario, alerta pedagogica, reporte administrativo o respuesta conversacional por WhatsApp.
 
-### Arquitectura y decisiones senior
+### Arquitectura y decisiones 
 
 | Decision tecnica | Valor profesional |
 | --- | --- |
@@ -430,7 +430,7 @@ flowchart LR
 
 ## Habilidades aplicadas en los proyectos
 
-| Habilidad senior | Placa ALPR | CourseV | Habitat Lens |
+| Habilidad  | Placa ALPR | CourseV | Habitat Lens |
 | --- | --- | --- | --- |
 | Arquitectura de software | Dominio desacoplado, puertos, adaptadores, casos de uso y repositorios. | Hexagonal, frontend por features, servicios modulares y fronteras de integracion. | Hexagonal, casos de uso de busqueda, adaptadores de fuentes y cache desacoplada. |
 | IA y automatizacion | YOLOv8, PaddleOCR, OpenCV, tracking, vote buffer y LLM por WhatsApp. | LLMs, RAG, MCP, generacion de cursos, recursos visuales y automatizacion docente. | Automatizacion de extraccion, normalizacion, enrichment progresivo y reportes por fuente. |
@@ -467,6 +467,6 @@ flowchart LR
 
 ## Enfoque profesional
 
-Estos proyectos muestran una forma senior de construir software: primero se define el dominio, despues se disenan los flujos de negocio, luego se integran modelos, datos, automatizaciones e infraestructura, y finalmente se asegura que el sistema sea usable, medible, seguro y mantenible.
+Estos proyectos muestran una forma  de construir software: primero se define el dominio, despues se disenan los flujos de negocio, luego se integran modelos, datos, automatizaciones e infraestructura, y finalmente se asegura que el sistema sea usable, medible, seguro y mantenible.
 
 La inteligencia artificial no aparece como una demo aislada. En Placa ALPR se conecta con camaras, OCR, propietarios, permisos, notificaciones y reportes. En CourseV se conecta con cursos, docentes, estudiantes, materiales, progreso, RAG, MCP y generacion de contenido educativo. En Habitat Lens, el foco esta en datos reales, scraping responsable, cache distribuida, deduplicacion y una experiencia de busqueda consistente. Esa combinacion muestra criterio para construir productos profesionales con IA, automatizacion y sistemas web orientados a datos.
